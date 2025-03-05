@@ -1,4 +1,4 @@
-Automated Trading System for Stock Prediction
+##Automated Trading System for Stock Prediction
 
 
 The Automated Trading System leverages machine learning algorithms and financial data to predict stock price movements and generate actionable trading signals. The system analyzes historical stock data, financial statements, and market indicators to predict future trends, guiding investors toward informed decisions. Built with scalability and ease of use in mind, this system can be extended to include more companies and data sources, making it a versatile tool for stock market analysis.
