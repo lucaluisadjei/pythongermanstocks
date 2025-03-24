@@ -20,6 +20,25 @@ The **Streamlit** dashboard allows users to select a stock, define their risk pr
 
 ## Important Considerations
 This system is designed for **short-term forecasting** and assumes that users already hold stocks in the selected companies. External factors like macroeconomic events, news, and earnings reports are not considered in the model; only historical price data is used.
+##  Limitations & Future Work
+
+- Only supports 5 German stocks (BMW, Mercedes-Benz, VW, Bayer, Fresenius).
+- External macroeconomic factors (news, earnings) not yet included.
+- Currently short-term only (2-day forecasts).
+- Future improvements could include:
+  - Portfolio optimization
+  - Sentiment analysis integration
+  - Deployment on AWS/GCP with user login
+
+---
+
+## Project Benefits
+
+This project is ideal for those interested in:
+- Quantitative trading strategies
+- Financial data science
+- Real-time stock forecasting
+- Streamlit and Python ML integrations
 
 ---
 
