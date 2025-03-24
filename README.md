@@ -20,3 +20,17 @@ The **Streamlit** dashboard allows users to select a stock, define their risk pr
 
 ## Important Considerations
 This system is designed for **short-term forecasting** and assumes that users already hold stocks in the selected companies. External factors like macroeconomic events, news, and earnings reports are not considered in the model; only historical price data is used.
+
+---
+
+## 🛠 Tech Stack
+
+- **Python 3.10+**
+- **Pandas, NumPy**
+- **TensorFlow / Keras**
+- **XGBoost**
+- **Streamlit**
+- **SimFin API**
+- **Matplotlib / Seaborn**
+
+---
