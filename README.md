@@ -23,7 +23,7 @@ This system is designed for **short-term forecasting** and assumes that users al
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python 3.10+**
 - **Pandas, NumPy**
