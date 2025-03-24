@@ -4,7 +4,7 @@ The Automated Trading System leverages machine learning algorithms and financial
 
 ## Model Overview
 
-The project employs a **Random Forest Regressor** model to predict stock price movements based on past stock prices, technical indicators, and fundamental financial data like income statements and balance sheets. It generates predictions (Buy, Sell, Hold) that can be used to inform trading decisions. The system also includes built-in model evaluation features to ensure consistent accuracy and improvement over time.
+The project employs a **LSTM (Long Short-Term Memory) Neural Network Model** to predict stock price movements based on past stock prices, technical indicators, and fundamental financial data like income statements and balance sheets. It generates predictions (Buy, Sell, Hold) that can be used to inform trading decisions. The system also includes built-in model evaluation features to ensure consistent accuracy and improvement over time.
 
 ## Project Benefits
 
