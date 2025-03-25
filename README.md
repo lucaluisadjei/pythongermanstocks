@@ -44,7 +44,7 @@ This project is ideal for those interested in:
 
 ##  Tech Stack
 
-- **Python 3.10+**
+- **Python 3.10.x**
 - **Pandas, NumPy**
 - **TensorFlow / Keras**
 - **XGBoost**
@@ -53,3 +53,22 @@ This project is ideal for those interested in:
 - **Matplotlib / Seaborn**
 
 ---
+
+To set up the project environment on Windows : [Windows Instructions](./WINDOWS_instructions.md)
+
+To set up the project environment on MAC : [MAC Instructions](./MAC_instructions.md)
+
+To run the application locally once you have created your virtual environment, run
+
+for windows:
+
+```bash
+python -m streamlit run home.py
+```
+
+for MAC:
+
+```bash
+streamlit run home.py
+```
+
