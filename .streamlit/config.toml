@@ -1,0 +1,12 @@
+[theme]
+base="dark"
+primaryColor="#00B4D8"
+backgroundColor="#121212"
+secondaryBackgroundColor="#1E1E1E"
+textColor="#FFFFFF"
+font="sans serif"  # You can try "monospace" or "serif" too for different feels
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false

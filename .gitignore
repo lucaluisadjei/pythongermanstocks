@@ -1,6 +1,4 @@
 # Byte-compiled / optimized / DLL files
-data/
-*.csv
 __pycache__/
 *.py[cod]
 *$py.class
@@ -171,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#vscode files
+.vscode
