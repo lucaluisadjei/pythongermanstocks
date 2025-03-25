@@ -56,7 +56,7 @@ This project is ideal for those interested in:
 
 To set up the project environment on Windows : [Windows Instructions](./WINDOWS_instructions.md)
 
-To set up the project environment on MAC : [MAC Instructions](./MAC_instructions.md)
+To set up the project environment on MAC : [MAC Instructions](./MACOS_instructions.md)
 
 To run the application locally once you have created your virtual environment, run
 
